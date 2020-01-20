@@ -1,0 +1,13 @@
+#loginform {
+    width: 450px;
+    margin: 250px auto;
+}
+
+
+
+#notif {
+    background: lavender;
+    font-style: italic;
+    font-weight: bold;
+    color: red;
+}
